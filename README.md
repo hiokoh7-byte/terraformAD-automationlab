@@ -1,7 +1,7 @@
 # Terraform Active-Directory Automation Lab Steps
 # WATCH ME BUILD THIS LAB!: (https://www.loom.com/share/6dbf1ffb253a4764a3d2bb3af9d15ed5)
 1. **Preparation (Pre-requisite):** Ensure your directory is scaffolded with the four `.tf` files already populated with code and focused on the folder your "main.tf" is.
-2. <img width="1560" height="1360" alt="fourscaffolded" src="https://github.com/user-attachments/assets/1257738c-c9e7-456b-96e9-d060190e2eea" />
+ <img width="1560" height="1360" alt="fourscaffolded" src="https://github.com/user-attachments/assets/1257738c-c9e7-456b-96e9-d060190e2eea" />
 3. **Initialization:** In VS Code, run `terraform init` to prepare the Azure provider.
 <img width="3830" height="1975" alt="terraforminit" src="https://github.com/user-attachments/assets/d9010e30-3449-48d4-9f9a-dbece4fddf8a" />
 
